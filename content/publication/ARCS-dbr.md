@@ -46,14 +46,14 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-[[url_custom]]
+<!---[[url_custom]]
     name = "URL"
-    url = "https://er.educause.edu/articles/2017/6/pathways-for-affective-learning-in-massive-open-online-courses"
+    url = "https://er.educause.edu/articles/2017/6/pathways-for-affective-learning-in-massive-open-online-courses" --->
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
- [header]
- image = "smiley.jpg"
- caption = "smily face"
+ <!--- [header]
+ # image = "smiley.jpg"
+ # caption = "smily face" --->
 
 +++
