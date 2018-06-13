@@ -1,6 +1,6 @@
 +++
 title = "Motivating students in Massive Open Online Courses (MOOCs) using the Attention, Relevance, Confidence, Satisfaction (ARCS) model"
-date = 2018-06-19
+date = 2018-06-12
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -46,14 +46,12 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-<!---[[url_custom]]
-    name = "URL"
-    url = "https://er.educause.edu/articles/2017/6/pathways-for-affective-learning-in-massive-open-online-courses" --->
+
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
- <!--- [header]
- # image = "smiley.jpg"
- # caption = "smily face" --->
+ [header]
+  image = "smiley.jpg"
+  caption = "smily face" 
 
 +++
