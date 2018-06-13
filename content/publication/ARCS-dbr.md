@@ -16,7 +16,7 @@ authors = ["**Kun Li**", "David R. Moore"]
 # 5 = Book
 # 6 = Book chapter
 # 7 = Magazine
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "*Journal of Formative Design in Learning*"
@@ -50,8 +50,8 @@ url_video = ""
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
- [header]
-  image = "smiley.jpg"
-  caption = "smily face" 
+# [header]
+#  image = "smiley.jpg"
+#  caption = "smily face" 
 
 +++
