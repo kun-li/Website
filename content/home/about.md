@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Learner Motivation",
-    "Self-regulated Learning",
-    ""
+    "Increasing learner Motivation",
+    "Promoting self-regulated Learning",
+    "Designing engaging learning environment"
   ]
 # year = 2015
 # List your qualifications (such as academic degrees).

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Kun Li</title>
-    <link>/home/</link>
+    <link>https://kun-li.netlify.com/home/</link>
     <description>Recent content in Homes on Kun Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kun-li.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://kun-li.netlify.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://kun-li.netlify.com/home/about/</guid>
       <description>Biography I design and develop online courses with subject matter experts in higher education. I work on educational data mining projects. I conduct research based on learning sciences and instructional design models.
 My research interests include applying theories in learning science into real education settings, self-regulated learning in online environments and learning community.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/home/publications/</link>
+      <link>https://kun-li.netlify.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://kun-li.netlify.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>/home/talks/</link>
+      <link>https://kun-li.netlify.com/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://kun-li.netlify.com/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://kun-li.netlify.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://kun-li.netlify.com/home/teaching/</guid>
       <description>I taught Technology Applications in Education for three semesters at Ohio University. This course introduces Web 2.0 tools to pre-service teachers and how they can be used in the classroom.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://kun-li.netlify.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://kun-li.netlify.com/home/contact/</guid>
       <description></description>
     </item>
     
