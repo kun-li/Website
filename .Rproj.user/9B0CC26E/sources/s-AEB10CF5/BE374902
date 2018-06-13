@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528843204480.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1742595952",
+    "id" : "BE374902",
+    "lastKnownWriteTime" : 1528847059,
+    "last_content_update" : 1528847059376,
+    "path" : "~/Dropbox/Projects/KunNet/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "272,3",
+        "scrollLine" : "259"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
