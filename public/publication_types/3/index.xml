@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Kun Li</title>
-    <link>https://kun-li.netlify.com/publication_types/3/</link>
+    <link>/publication_types/3/</link>
     <description>Recent content in 3 on Kun Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 12 Jun 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://kun-li.netlify.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Motivating students in Massive Open Online Courses (MOOCs) using the Attention, Relevance, Confidence, Satisfaction (ARCS) model</title>
-      <link>https://kun-li.netlify.com/publication/arcs-dbr/</link>
+      <link>/publication/arcs-dbr/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/arcs-dbr/</guid>
+      <guid>/publication/arcs-dbr/</guid>
       <description></description>
     </item>
     
