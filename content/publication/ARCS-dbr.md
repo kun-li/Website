@@ -1,6 +1,6 @@
 +++
 title = "Motivating students in Massive Open Online Courses (MOOCs) using the Attention, Relevance, Confidence, Satisfaction (ARCS) model"
-date = 2018-06-12
+date = 2018-07-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ authors = ["**Kun Li**", "David R. Moore"]
 # 5 = Book
 # 6 = Book chapter
 # 7 = Magazine
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Journal of Formative Design in Learning*"
@@ -46,7 +46,9 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-
+[[url_custom]]
+    name = "URL"
+    url = "https://link.springer.com/epdf/10.1007/s41686-018-0021-9?author_access_token=40JCFBbDf3eL1qMVsb5MTPe4RwlQNchNByi7wbcMAY4Vol0Z1cBuZZMYSOpG_-VlWRmHCIaw96HVkX4kWSdeXZLm2BMTxTDTo6iUt5X3kQnq0IM-_OPJr7RdBw6vO6CJlV_-AbQhPGLL3Lo7bL70rw%3D%3D"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
