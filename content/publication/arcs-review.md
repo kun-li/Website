@@ -36,7 +36,7 @@ image_preview = ""
 selected = true
 
 # Links (optional)
-url_pdf = ""
+url_pdf = "/files/ARCS-Model-Literature-Review.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
