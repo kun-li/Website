@@ -38,7 +38,7 @@ image_preview = ""
 selected = true
 
 # Links (optional)
-url_pdf = ""
+url_pdf = "/files/blogging-classroom.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
