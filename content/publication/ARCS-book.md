@@ -46,7 +46,9 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-
+[[url_custom]]
+    name = "URL"
+    url = "https://pubs.acs.org/doi/abs/10.1021/bk-2017-1261.ch003"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
