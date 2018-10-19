@@ -15,11 +15,15 @@ weight = 60
 
 +++
 
-* Technology Applications in Education in College of Education at Ohio University 
+* Technology Applications in Education 
+  - In College of Education at Ohio University 
   - As the teacher of record for three quarters
-  - This course introduces Web 2.0 tools to pre-service teachers and their applications in the classroom.
+  - A series of Web 2.0 tools to pre-service teachers 
+  - Applications in the classroom
   - Implemented engaging learning activities.
-* Learning sciences theories in Physical Therapy Division's Communication course
+* Learning sciences theories for a communication course
+  - In Physical Therapy Division at Duke University
+  - As the topic instructor
   - Information processing theory and cognitive load theory
-  - Used instructional videos.
-  - Designed application-level and higher assessment.
+  - Instructional videos in a flipped class mode
+  - Designed application and higher level assessment.
