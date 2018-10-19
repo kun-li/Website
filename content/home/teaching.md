@@ -15,4 +15,11 @@ weight = 60
 
 +++
 
-I taught Technology Applications in Education for three semesters at Ohio University. This course introduces Web 2.0 tools to pre-service teachers and how they can be used in the classroom.
+* Technology Applications in Education in College of Education at Ohio University 
+  - As the teacher of record for three quarters
+  - This course introduces Web 2.0 tools to pre-service teachers and their applications in the classroom.
+  - Implemented engaging learning activities.
+* Learning sciences theories in Physical Therapy Division's Communication course
+  - Information processing theory and cognitive load theory
+  - Used instructional videos.
+  - Designed application-level and higher assessment.

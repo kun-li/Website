@@ -37,4 +37,4 @@ weight = 5
 
 I design and develop online courses with subject matter experts in higher education. I work on educational data mining projects. I conduct research based on learning sciences and instructional design models. 
 
-My research interests include applying theories in learning science into real education settings, self-regulated learning in online environments and learning community. 
+My research interests include applying theories in learning science into real education settings, self-regulated learning in online environments and designing engaging personalized learning experiences for all learners. 
