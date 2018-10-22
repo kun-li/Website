@@ -230,6 +230,11 @@ enableGitInfo = false
     link = "mailto:kl195@duke.edu"
 
   [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "fa"
+    link = "//scholar.google.com/citations?hl=en&user=cKGxodYAAAAJ&view_op=list_works&gmla=AJsN-F4upMP890Y9ZDQU921yg3g8AdBRYX8HUl4Ms2NgkUkJTr6lE3MZitmSspjFbFlSRM8pSr5ENvKDvgYci8Xgqoj7zHUelgE1_ab-pCnDV9ZzsnJyfzDI-d7cfdbkK4BLT8YYrLXA"
+  
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/edtechkunli"
