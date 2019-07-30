@@ -1,120 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kun Li on Kun Li</title>
-    <link>/</link>
+    <link>https://kun-li.netlify.com/</link>
     <description>Recent content in Kun Li on Kun Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Learners’ Perceptions and Experiences of Taking Two Chemistry MOOCs</title>
-      <link>/publication/mooc-interview/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/mooc-interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MOOC learners’ demographics, self-regulated learning strategy, perceived learning and satisfaction: A structural equation modeling approach</title>
-      <link>/publication/mooc-sem/</link>
+      <link>https://kun-li.netlify.com/publication/mooc-sem/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/publication/mooc-sem/</guid>
+      <guid>https://kun-li.netlify.com/publication/mooc-sem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivating students in Massive Open Online Courses (MOOCs) using the Attention, Relevance, Confidence, Satisfaction (ARCS) model</title>
-      <link>/publication/arcs-dbr/</link>
+      <link>https://kun-li.netlify.com/publication/arcs-dbr/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/arcs-dbr/</guid>
+      <guid>https://kun-li.netlify.com/publication/arcs-dbr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of the ARCS model in education: A literature review</title>
-      <link>/publication/arcs-review/</link>
+      <link>https://kun-li.netlify.com/publication/arcs-review/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/arcs-review/</guid>
+      <guid>https://kun-li.netlify.com/publication/arcs-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enriching classroom learning through a microblogging-supported activity</title>
-      <link>/publication/twitter-classroom/</link>
+      <link>https://kun-li.netlify.com/publication/twitter-classroom/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/twitter-classroom/</guid>
+      <guid>https://kun-li.netlify.com/publication/twitter-classroom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivational design in chemistry MOOCs: Applying the ARCS model</title>
-      <link>/publication/arcs-book/</link>
+      <link>https://kun-li.netlify.com/publication/arcs-book/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/arcs-book/</guid>
+      <guid>https://kun-li.netlify.com/publication/arcs-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the massive open online course (MOOC) student experience: An examination of attitudes, motivations, and barriers</title>
-      <link>/publication/mooc-experience/</link>
+      <link>https://kun-li.netlify.com/publication/mooc-experience/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/mooc-experience/</guid>
+      <guid>https://kun-li.netlify.com/publication/mooc-experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pathways for affective learning in Massive Open Online Courses</title>
-      <link>/publication/affective-pathway/</link>
+      <link>https://kun-li.netlify.com/publication/affective-pathway/</link>
       <pubDate>Mon, 19 Jun 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/affective-pathway/</guid>
+      <guid>https://kun-li.netlify.com/publication/affective-pathway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preservice Teachers’ Intention to Adopt Technology in Their Future Classrooms</title>
-      <link>/publication/tech-intention/</link>
+      <link>https://kun-li.netlify.com/publication/tech-intention/</link>
       <pubDate>Sat, 23 Apr 2016 16:45:20 -0400</pubDate>
       
-      <guid>/publication/tech-intention/</guid>
+      <guid>https://kun-li.netlify.com/publication/tech-intention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging for teaching and learning: An examination of experience, attitudes, and levels of thinking</title>
-      <link>/publication/blog-experience/</link>
+      <link>https://kun-li.netlify.com/publication/blog-experience/</link>
       <pubDate>Wed, 23 Oct 2013 17:20:35 -0400</pubDate>
       
-      <guid>/publication/blog-experience/</guid>
+      <guid>https://kun-li.netlify.com/publication/blog-experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is social annotation an effective tool for peer assessment?</title>
-      <link>/publication/social-annotation/</link>
+      <link>https://kun-li.netlify.com/publication/social-annotation/</link>
       <pubDate>Mon, 25 Mar 2013 00:00:00 -0400</pubDate>
       
-      <guid>/publication/social-annotation/</guid>
+      <guid>https://kun-li.netlify.com/publication/social-annotation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconsidering instructional design with Web 2.0 technologies</title>
-      <link>/talk/web2/</link>
+      <link>https://kun-li.netlify.com/talk/web2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/talk/web2/</guid>
+      <guid>https://kun-li.netlify.com/talk/web2/</guid>
       <description></description>
     </item>
     

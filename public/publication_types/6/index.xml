@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 on Kun Li</title>
-    <link>/publication_types/6/</link>
+    <link>https://kun-li.netlify.com/publication_types/6/</link>
     <description>Recent content in 6 on Kun Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 26 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kun-li.netlify.com/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Motivational design in chemistry MOOCs: Applying the ARCS model</title>
-      <link>/publication/arcs-book/</link>
+      <link>https://kun-li.netlify.com/publication/arcs-book/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/arcs-book/</guid>
+      <guid>https://kun-li.netlify.com/publication/arcs-book/</guid>
       <description></description>
     </item>
     

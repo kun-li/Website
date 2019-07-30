@@ -1,6 +1,6 @@
 +++
-title = "Learners’ Perceptions and Experiences of Taking Two Chemistry MOOCs"
-date = 2019-03-19
+title = "Learners’ Perceptions and Experiences of Two Chemistry MOOCs: Implications for Teaching and Design"
+date = 2019-07-25
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,7 +15,7 @@ authors = ["**Kun Li**", "Dorian A. Canelas"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*American Journal of Distance Education*"
