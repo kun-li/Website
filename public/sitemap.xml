@@ -4,8 +4,8 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication_types/2/</loc>
-      <lastmod>2019-01-11T00:00:00-05:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-07-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -14,8 +14,8 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/</loc>
-      <lastmod>2019-01-11T00:00:00-05:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2019-07-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -24,8 +24,8 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/mooc-sem/</loc>
-      <lastmod>2019-01-11T00:00:00-05:00</lastmod>
+      <loc>/publication/mooc-interview/</loc>
+      <lastmod>2019-07-25T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -33,8 +33,8 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication_types/</loc>
-      <lastmod>2019-01-11T00:00:00-05:00</lastmod>
+      <loc>/publication_types/</loc>
+      <lastmod>2019-07-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -43,7 +43,16 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/arcs-dbr/</loc>
+      <loc>/publication/mooc-sem/</loc>
+      <lastmod>2019-01-11T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/arcs-dbr/</loc>
       <lastmod>2018-07-19T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,7 +61,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/arcs-review/</loc>
+      <loc>/publication/arcs-review/</loc>
       <lastmod>2018-04-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -61,7 +70,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/twitter-classroom/</loc>
+      <loc>/publication/twitter-classroom/</loc>
       <lastmod>2018-02-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -70,7 +79,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication_types/6/</loc>
+      <loc>/publication_types/6/</loc>
       <lastmod>2017-10-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -80,7 +89,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/arcs-book/</loc>
+      <loc>/publication/arcs-book/</loc>
       <lastmod>2017-10-26T00:00:00-04:00</lastmod>
     </url>
     
@@ -89,7 +98,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/mooc-experience/</loc>
+      <loc>/publication/mooc-experience/</loc>
       <lastmod>2017-07-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -98,7 +107,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication_types/7/</loc>
+      <loc>/publication_types/7/</loc>
       <lastmod>2017-06-19T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -108,7 +117,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/affective-pathway/</loc>
+      <loc>/publication/affective-pathway/</loc>
       <lastmod>2017-06-19T00:00:00-04:00</lastmod>
     </url>
     
@@ -117,7 +126,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -126,7 +135,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -135,7 +144,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/tech-intention/</loc>
+      <loc>/publication/tech-intention/</loc>
       <lastmod>2016-04-23T16:45:20-04:00</lastmod>
     </url>
     
@@ -144,7 +153,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/blog-experience/</loc>
+      <loc>/publication/blog-experience/</loc>
       <lastmod>2013-10-23T17:20:35-04:00</lastmod>
     </url>
     
@@ -153,7 +162,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication_types/1/</loc>
+      <loc>/publication_types/1/</loc>
       <lastmod>2013-03-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,7 +172,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/publication/social-annotation/</loc>
+      <loc>/publication/social-annotation/</loc>
       <lastmod>2013-03-25T00:00:00-04:00</lastmod>
     </url>
     
@@ -172,7 +181,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -181,7 +190,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/talk/web2/</loc>
+      <loc>/talk/web2/</loc>
     </url>
     
   
@@ -189,7 +198,7 @@
     
     <url>
     
-      <loc>https://kun-li.netlify.com/tags/</loc>
+      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
     

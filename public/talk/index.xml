@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Kun Li</title>
-    <link>https://kun-li.netlify.com/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Talks on Kun Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://kun-li.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reconsidering instructional design with Web 2.0 technologies</title>
-      <link>https://kun-li.netlify.com/talk/web2/</link>
+      <link>/talk/web2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kun-li.netlify.com/talk/web2/</guid>
+      <guid>/talk/web2/</guid>
       <description></description>
     </item>
     

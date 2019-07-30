@@ -2,76 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Kun Li</title>
-    <link>https://kun-li.netlify.com/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Kun Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://kun-li.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Learners’ Perceptions and Experiences of Two Chemistry MOOCs: Implications for Teaching and Design</title>
+      <link>/publication/mooc-interview/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/mooc-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MOOC learners’ demographics, self-regulated learning strategy, perceived learning and satisfaction: A structural equation modeling approach</title>
-      <link>https://kun-li.netlify.com/publication/mooc-sem/</link>
+      <link>/publication/mooc-sem/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/mooc-sem/</guid>
+      <guid>/publication/mooc-sem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivating students in Massive Open Online Courses (MOOCs) using the Attention, Relevance, Confidence, Satisfaction (ARCS) model</title>
-      <link>https://kun-li.netlify.com/publication/arcs-dbr/</link>
+      <link>/publication/arcs-dbr/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/arcs-dbr/</guid>
+      <guid>/publication/arcs-dbr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of the ARCS model in education: A literature review</title>
-      <link>https://kun-li.netlify.com/publication/arcs-review/</link>
+      <link>/publication/arcs-review/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/arcs-review/</guid>
+      <guid>/publication/arcs-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enriching classroom learning through a microblogging-supported activity</title>
-      <link>https://kun-li.netlify.com/publication/twitter-classroom/</link>
+      <link>/publication/twitter-classroom/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/twitter-classroom/</guid>
+      <guid>/publication/twitter-classroom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the massive open online course (MOOC) student experience: An examination of attitudes, motivations, and barriers</title>
-      <link>https://kun-li.netlify.com/publication/mooc-experience/</link>
+      <link>/publication/mooc-experience/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/mooc-experience/</guid>
+      <guid>/publication/mooc-experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preservice Teachers’ Intention to Adopt Technology in Their Future Classrooms</title>
-      <link>https://kun-li.netlify.com/publication/tech-intention/</link>
+      <link>/publication/tech-intention/</link>
       <pubDate>Sat, 23 Apr 2016 16:45:20 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/tech-intention/</guid>
+      <guid>/publication/tech-intention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging for teaching and learning: An examination of experience, attitudes, and levels of thinking</title>
-      <link>https://kun-li.netlify.com/publication/blog-experience/</link>
+      <link>/publication/blog-experience/</link>
       <pubDate>Wed, 23 Oct 2013 17:20:35 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/publication/blog-experience/</guid>
+      <guid>/publication/blog-experience/</guid>
       <description></description>
     </item>
     

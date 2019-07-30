@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Kun Li</title>
-    <link>https://kun-li.netlify.com/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Kun Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://kun-li.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://kun-li.netlify.com/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Biography I design and develop online courses with subject matter experts in higher education. I work on educational data mining projects. I conduct research based on learning sciences and instructional design models.
 My research interests include applying theories in learning science into real education settings, self-regulated learning in online environments and designing engaging personalized learning experiences for all learners.</description>
     </item>
     
     <item>
       <title>Journals</title>
-      <link>https://kun-li.netlify.com/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://kun-li.netlify.com/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://kun-li.netlify.com/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://kun-li.netlify.com/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>Technology Applications in Education  In College of Education at Ohio University As the teacher of record for three quarters A series of Web 2.0 tools to pre-service teachers Applications in the classroom Implemented engaging learning activities.  Learning sciences theories for a communication course  In Physical Therapy Division at Duke University As the topic instructor Information processing theory and cognitive load theory Instructional videos in a flipped class mode Designed application and higher level assessment.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://kun-li.netlify.com/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://kun-li.netlify.com/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
