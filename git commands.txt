@@ -3,4 +3,7 @@ git add .
 git commit -m “”
 git push origin master
 
+
 5eE3*hmrCV%AvG9
+
+Deploy on netlify
