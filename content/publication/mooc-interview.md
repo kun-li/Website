@@ -1,7 +1,7 @@
 +++
 title = "Learners’ Perceptions and Experiences of Two Chemistry MOOCs: Implications for Teaching and Design"
 date = 2019-07-25
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Kun Li**", "Dorian A. Canelas"]
@@ -44,7 +44,9 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-
+[[url_custom]]
+    name = "URL"
+    url = "https://www.tandfonline.com/doi/full/10.1080/08923647.2019.1639469"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
