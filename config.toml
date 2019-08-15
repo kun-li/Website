@@ -10,7 +10,7 @@ title = "Kun Li"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -64,7 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "kl.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "kl195@duke.edu"
-  address = "2200 W. Main Street, Duke University, Durham 27705, USA"
+  address = "311 Trent Drive, Duke University, Durham 27710, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
 #  skype = "echo123"
