@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://kun-li.netlify.com/"
+baseurl = "https://kun-li.netlify.app/"
 # relativeurls = true
 # Title of your site
 title = "Kun Li"
@@ -55,16 +55,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Kun Li"
-  role = "Educational Technology Specialist"
+  role = "Educational Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Duke University", url = "" } ]
+  organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "kl.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "kl195@duke.edu"
-  address = "311 Trent Drive, Duke University, Durham 27710, USA"
+  email = ""
+#  address = "311 Trent Drive, Duke University, Durham 27710, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
 #  skype = "echo123"
